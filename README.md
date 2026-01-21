@@ -36,6 +36,10 @@
 
 - <a href="https://sorcery.ie">SorceryIE</a> (CyberSecurity and Software)
 
+<li><p> Pentests my company <a href="https://github.com/DarkSyst">DarkSyst</a> has worked on: </p></li>
+
+- <a href="https://simplesuppliermanagement.com/">SSM teams</a>
+
 
 <li><p> Feel free to connect with me to discuss coding projects, bug hunting, or cybersecurity! </p></li>
 </ul>
