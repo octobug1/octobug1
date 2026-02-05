@@ -20,7 +20,7 @@
 ![Static Badge](https://img.shields.io/badge/x64dbg-he?style=for-the-badge&color=grey)
 
 
-<li> <p> I'm sharpening my skills in web vulnerabilities, including XSS, Race Conditions, SSRF, SQL injection, HTTP request smuggling, + more. Alongside web security, I am also actively exploring reverse engineering. </p></li>
+<li> <p> I'm sharpening my skills in web vulnerabilities, including XSS, Race Conditions, SSRF, CSRF, SQL injection, HTTP request smuggling, + more. Alongside web security, I am also actively exploring reverse engineering. </p></li>
 
 ![Static Badge](https://img.shields.io/badge/owasp-he?style=for-the-badge&logo=owasp&logoColor=black&color=dark%20green)
 ![Static Badge](https://img.shields.io/badge/portswigger-he?style=for-the-badge&logo=portswigger&color=white)
